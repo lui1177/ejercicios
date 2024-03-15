@@ -1,19 +1,19 @@
 console.log("Escriba dos numeros")
 
-let A = 15
-let B = 6
+let a = 15
+let b = 6
 
-console.log(A)
-console.log(B)
+console.log(a)
+console.log(b)
 
-if( A < B){
-    let resultado = A + B
+if( a < b){
+    let resultado = a + b
     console.log("El resultado es: ")
     console.log(resultado)
 
 }else{
-    if(A > B){
-    let resultado = A - B
+    if(a > b){
+    let resultado = a - b
     console.log("El resultado es: ")
     console.log(resultado)
  }
