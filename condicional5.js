@@ -5,8 +5,8 @@ console.log("Recuerde que la divison no puede ser 0")
 let n = 1000
 let d = 0
 
-console.log(a)
-console.log(b)
+console.log(n)
+console.log(d)
 
 console.log("El dividendo es: "+n)
 console.log("El divisor es: "+d)
